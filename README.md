@@ -4,4 +4,4 @@
 Written in MicroPython, the ST7735-powered screen can be used for standard input and output.
 
 create a Screen Object
-~ screen = Rules(Your_TFT_Class)
+'''screen = Rules(Your_TFT_Class)'''
