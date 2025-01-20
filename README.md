@@ -2,7 +2,7 @@
 
 import this library
 
-```from PySTIO import Rules```
+```from MPySTIO import Rules```
 
 create a Screen Object
 
