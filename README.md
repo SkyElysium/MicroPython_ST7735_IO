@@ -1,6 +1,6 @@
 # MicroPython_ST7735_IO
 
-##Some Prepartion Work
+## Some Prepartion Work
 How to import this library:
 
 ```from MPySTIO import Rules```
@@ -9,7 +9,7 @@ Then, try creating a **screen object**
 
 ```screen = Rules(Your_TFT_Class)```
 
-##Functions
+## Functions
 The way to print:
 
 ```screen.out("Hello World")```
