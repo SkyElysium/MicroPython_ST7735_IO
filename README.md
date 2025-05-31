@@ -6,18 +6,18 @@ How to import this library:
 
 Then, try creating a **screen object**
 
-(```)python
+(``)python
     screen = Rules(Your_TFT_Class)
-(```)
+(``)
 
 The way to print:
 
-(```)python
+(``)python
     screen.out("Hello World")
-(```)
+(``)
 
 The way to input:
 
-(```)python
+(``)python
     screen.get(text = "input here", keyboard = ..., end = 'enter')
-(```)
+(``)
