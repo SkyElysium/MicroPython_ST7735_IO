@@ -1,17 +1,17 @@
 # MicroPython_ST7735_IO
 
-import this library
+How to import this library:
 
 ```from MPySTIO import Rules```
 
-create a Screen Object
+Then, try creating a **screen object**
 
 ```screen = Rules(Your_TFT_Class)```
-
-print
+---
+the way to print:
 
 ```screen.out("Hello World")```
 
-input
+the way to input:
 
 ```screen.get(text = "input here", keyboard = ..., end = 'enter')```
