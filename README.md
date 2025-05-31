@@ -1,5 +1,9 @@
 # MicroPython_ST7735_IO
 
+The library depends on some other libraries:
+- ST7735
+- sysfont
+
 ## *Some Prepartion Work*
 How to import this library:
 
