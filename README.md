@@ -8,6 +8,7 @@ Then, try creating a **screen object**
 
 ```screen = Rules(Your_TFT_Class)```
 
+Functions
 ---
 
 the way to print:
