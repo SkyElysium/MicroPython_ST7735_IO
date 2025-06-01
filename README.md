@@ -14,6 +14,7 @@ Then, try creating a **screen object**
 ```screen = Rules(Your_TFT_Class)```
 
 ## *Functions*
+
 1. The way to print:
 
 ```screen.out("Hello World")```
