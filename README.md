@@ -15,13 +15,13 @@ Then, try creating a **screen object**
 
 ## *Functions*
 
-1. The way to print:
+- The way to print:
 
 ```screen.out("Hello World")```
 
 *If words are full of the screen, it will clean the screen and display the rest of the words.*
 
-2. The way to input:
+- The way to input:
 
 ```screen.get(text = "input here", keyboard = ..., end = 'enter')```
 
