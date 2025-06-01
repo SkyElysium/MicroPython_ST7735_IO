@@ -26,6 +26,7 @@ Then, try creating a **screen object**
 ```screen.get(text = "input here", keyboard = ..., end = 'enter')```
 
 *You need to write a function or any. Then, filled with the name of the function to fill into 'keyboard'.*
-*'end' means it need to get somthing you write to end this input.*
+
+*'end' means it need to get something you write to end this input.*
 
 > Notice: I won't keep updating this library. If you want to help, welcome you!
