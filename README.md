@@ -20,6 +20,7 @@ The way to print:
 
 ***If words are full of the screen, it will clean the screen and display the rest of the words.***
 
+---
 The way to input:
 
 ```screen.get(text = "input here", keyboard = ..., end = 'enter')```
